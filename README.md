@@ -1,46 +1,47 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/11uR4uJ4dQk4E/giphy.gif" width="200"/>
-</p>
-
-### 👋 ¡Hola! Soy Nelson Beleno
-
-- 💻 Desarrollador full‑stack apasionado por Python, Node.js y React  
-- 📍 Ubicado en Santa Marta, Colombia  
-- 🌱 Actualmente explorando temas de backend distribuido y microservicios  
-- 📬 Contáctame en [LinkedIn](https://linkedin.com/in/nelsonbeleno) o por email
-
----
-
-### 🛠 Tecnologías y herramientas
+<h1 align="center">👋 Hola, soy Nelson Beleno</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,docker,aws&theme=light&perline=4" />
+  💻 Tecnólogo en Análisis y Desarrollo de Sistemas de Información<br>
+  🧠 Técnico Laboral en Administración de Sistemas<br>
+  📍 Santa Marta, Colombia
 </p>
 
 ---
 
-### 📊 Mi actividad en GitHub
+### 🚀 Sobre mí
+
+Soy desarrollador de software con experiencia en backend, frontend y administración de infraestructura tecnológica. Me destaco por mi enfoque proactivo, aprendizaje constante y la búsqueda de soluciones eficientes para optimizar procesos y maximizar resultados.
+
+🔧 **Experiencia en:**
+
+- Desarrollo con **PHP**, **Python**, **Java (Spring Boot)** y **Laravel**
+- Programación en **C, C++, C#, Visual Basic.NET**
+- Bases de datos **MySQL**, **SQL Server**, **PostgreSQL**
+- Administración de servidores **Linux (Ubuntu)** y servicios web con **Nginx**
+- Hosting, dominios, correos corporativos, certificados SSL, etc.
+
+---
+
+### 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelsonbeleno&show_icons=true&theme=transparent" alt="Stats de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonbeleno&layout=compact&langs_count=6&theme=transparent" alt="Lenguajes más usados"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,javascript,dotnet,php,python,bash,lua,markdown,nodejs,spring,laravel,nginx,linux,windows,vscode,visualstudio,netbeans,idea,mysql,postgres,azure,aws,oracle,ssh,ftp,postman&theme=light" />
 </p>
 
 ---
 
-### 👀 Visitantes recientes
-
-![Visitor Count](https://profile-counter.glitch.me/nelsonbeleno/count.svg)
-
----
-
-### 📫 ¿Quieres ver mis proyectos?
-
-¡Mira los repos destacados fijados abajo! También usa los íconos de redes para saber más sobre mí.
-
----
+### 📊 Lenguajes más usados
 
 <p align="center">
-  <a href="https://github.com/nelsonbeleno"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nelsonbeleno"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonbeleno&layout=compact&langs_count=10&theme=transparent" />
+</p>
+
+---
+
+### 🌐 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nelsonbeleno" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
