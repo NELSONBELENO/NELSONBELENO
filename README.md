@@ -3,7 +3,6 @@
 <p align="center">
   💻 Tecnólogo en Análisis y Desarrollo de Sistemas de Información<br>
   🧠 Técnico Laboral en Administración de Sistemas<br>
-  📍 Santa Marta, Colombia
 </p>
 
 ---
