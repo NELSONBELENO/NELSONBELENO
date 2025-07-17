@@ -25,7 +25,7 @@ Soy desarrollador de software con experiencia en backend, frontend y administrac
 ### 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,javascript,dotnet,php,python,bash,lua,markdown,nodejs,spring,laravel,nginx,linux,windows,vscode,visualstudio,netbeans,idea,mysql,postgres,azure,aws,oracle,ssh,ftp,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,javascript,dotnet,php,python,nodejs,bash,lua,markdown,spring,laravel,nginx,docker,git,github,gitlab,firebase,vscode,visualstudio,netbeans,idea,mysql,postgres,azure,aws,oracle,postman&theme=light" />
 </p>
 
 ---
